@@ -1,6 +1,6 @@
 # OYO Product Teardown: Group Booking Experience (OYO Trips)
 
-**Author:** Abdullah Khan | B.Tech (EE), NSUT Delhi  
+**Author:** Arnav Jain | B.Tech (IT), NSUT Delhi  
 **Role:** APM Candidate @ PRISM (OYO)  
 **Date:** July 2026  
 
